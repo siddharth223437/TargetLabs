@@ -2,4 +2,5 @@ Target Labs File Upload
 
 Clone or download project
 Import as an existing maven project in eclipse/STS
+Change the file system path under ApplicationProperties.java
 Run with spring-boot:run/ Test the junit
